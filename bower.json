@@ -1,0 +1,27 @@
+{
+  "name": "angular-get-template",
+  "version": "0.1.0",
+  "authors": [
+    "Giovanni Gonzaga <giovanni@buildo.io>"
+  ],
+  "description": "Handle `template` and `templateUrl` consistently.",
+  "main": "dist/angular-get-template.js",
+  "keywords": [
+    "angular",
+    "template",
+    "inline",
+    "url",
+    "templateUrl"
+  ],
+  "homepage": "https://github.com/buildo/angular-get-template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2"
+  }
+}

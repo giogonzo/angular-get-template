@@ -15,7 +15,7 @@
   "engines": {
     "node": ">=0.8.0"
   },
-  "description": "",
+  "description": "Handle `template` and `templateUrl` consistently.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
